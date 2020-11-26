@@ -1,0 +1,12 @@
+notification:
+  mattermost:
+    enabled: true
+    webhook-url: 
+    channel: 
+#    pretext: 
+#    color: 
+#    author-name: 
+#    author-icon: 
+#    title: 
+#    text: 
+#    footer: 
