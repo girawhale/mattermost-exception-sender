@@ -1,0 +1,1 @@
+# mattermost-exception-sender
