@@ -17,7 +17,6 @@ import lombok.RequiredArgsConstructor;
 import lombok.ToString;
 
 @Component
-@ToString
 @RequiredArgsConstructor
 public class MatterMostSender {
 	private Logger log = LoggerFactory.getLogger(MatterMostSender.class);
